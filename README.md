@@ -113,8 +113,6 @@ Spool :A spool refers to a roll of filament that is used as the printing materia
 
 <img src=https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2 weight=450 height=450>
 
-### Output:
-<img src=https://github.com/22002102/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119091638/cab55e15-e216-4844-a8bc-615ff9ea0f8c weight=450 height=450>
 
 ### Name: SANJAY S
 ### Register Number: 212222230132
