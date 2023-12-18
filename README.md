@@ -1,5 +1,5 @@
 # Ex:3  SIMULATION OF CARTESIAN 3D PRINTER MACHINE
-### DATE: 26/09/2023
+### DATE:
 
 
 ### AIM:
@@ -61,8 +61,8 @@
 ### Output
 <img src=https://github.com/22002102/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119091638/5b3ab403-cdd4-4eb2-a1c8-08d342c3b6a0 width=450 height=450>
 
-### Name: SANJAY S
-### Register Number: 212222230132
+### Name: ABISHAI K C
+### Register Number: 212223240002
 
 ### Result: 
  Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
