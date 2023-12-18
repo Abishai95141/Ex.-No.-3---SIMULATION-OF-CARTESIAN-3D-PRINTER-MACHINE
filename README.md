@@ -66,7 +66,7 @@
 ![image](https://github.com/Abishai95141/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/139335314/795b9324-0dcd-403d-b8f2-38dc7972cf30)
 
 
-### Name: 
+### Name: ABISHAI KC 
 ### Register Number: 212223240002
 
 ## Result: 
